@@ -8,4 +8,6 @@ In this course I assuming the role of a Data Scientist. During this process I pe
 
 I got a certificate from this course:
 
+/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+
 ![image](https://github.com/MalkiMalov/IBM-Data-Science-Project/blob/main/Certificate.jpg)
